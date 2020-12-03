@@ -318,7 +318,9 @@ p{
 	background-color: #555;
   }
 
-
+#abt{
+overflow-x: hidden; overflow-y: auto;
+}
 
 
 .venture p{
